@@ -1,6 +1,7 @@
 # Hello-world
 First repository
 
-Understanding GitHUb
-Almost new to coding
+Understanding GitHUb.
+
+Almost new to coding,
 Tasting new waters
